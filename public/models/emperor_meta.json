@@ -1,0 +1,57 @@
+{
+  "characterId": "emperor",
+  "filename": "Xenon Full.dae",
+  "ext": ".dae",
+  "size": 174256,
+  "uploadedAt": "2026-11-20T09:33:55.552Z",
+  "url": "/models/emperor_custom.dae",
+  "yawOffsetDeg": 0,
+  "playAnimation": false,
+  "weaponMode": "auto",
+  "textures": [
+    {
+      "name": "lbx030_00_arm.png",
+      "url": "/models/emperor_textures/lbx030_00_arm.png",
+      "size": 9101
+    },
+    {
+      "name": "lbx030_00_body.png",
+      "url": "/models/emperor_textures/lbx030_00_body.png",
+      "size": 9390
+    },
+    {
+      "name": "lbx030_00_head.png",
+      "url": "/models/emperor_textures/lbx030_00_head.png",
+      "size": 13279
+    },
+    {
+      "name": "lbx030_00_tail.png",
+      "url": "/models/emperor_textures/lbx030_00_tail.png",
+      "size": 5934
+    },
+    {
+      "name": "lbx030_00_mant.png",
+      "url": "/models/emperor_textures/lbx030_00_mant.png",
+      "size": 7269
+    },
+    {
+      "name": "lbx030_00_leg.png",
+      "url": "/models/emperor_textures/lbx030_00_leg.png",
+      "size": 13425
+    }
+  ],
+  "customWeapon": {
+    "filename": "Axe 06.dae",
+    "ext": ".dae",
+    "size": 74945,
+    "url": "/models/emperor_weapon.dae",
+    "yawOffsetDeg": 0,
+    "textures": [
+      {
+        "name": "wpn_cl_ax06_00.png",
+        "url": "/models/emperor_weapon_textures/wpn_cl_ax06_00.png",
+        "size": 13268
+      }
+    ]
+  }
+}

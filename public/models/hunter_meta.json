@@ -1,0 +1,52 @@
+{
+  "characterId": "hunter",
+  "filename": "Wolf Full.dae",
+  "ext": ".dae",
+  "size": 202752,
+  "uploadedAt": "2026-11-19T10:52:21.622Z",
+  "url": "/models/hunter_custom.dae",
+  "yawOffsetDeg": 0,
+  "playAnimation": false,
+  "weaponMode": "auto",
+  "textures": [
+    {
+      "name": "lbx003_00_body.png",
+      "url": "/models/hunter_textures/lbx003_00_body.png",
+      "size": 7269
+    },
+    {
+      "name": "lbx003_00_arm.png",
+      "url": "/models/hunter_textures/lbx003_00_arm.png",
+      "size": 7423
+    },
+    {
+      "name": "lbx003_00_head.png",
+      "url": "/models/hunter_textures/lbx003_00_head.png",
+      "size": 13882
+    },
+    {
+      "name": "lbx003_00_leg.png",
+      "url": "/models/hunter_textures/lbx003_00_leg.png",
+      "size": 13438
+    },
+    {
+      "name": "lbx003_00_tail.png",
+      "url": "/models/hunter_textures/lbx003_00_tail.png",
+      "size": 5797
+    }
+  ],
+  "customWeapon": {
+    "filename": "Sniper Rifle A 00.dae",
+    "ext": ".dae",
+    "size": 74858,
+    "url": "/models/hunter_weapon.dae",
+    "yawOffsetDeg": 0,
+    "textures": [
+      {
+        "name": "wpn_ri_sn00_00.png",
+        "url": "/models/hunter_weapon_textures/wpn_ri_sn00_00.png",
+        "size": 11702
+      }
+    ]
+  }
+}

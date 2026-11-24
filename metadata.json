@@ -1,0 +1,6 @@
+{
+  "name": "LBX: Хроники Диорам",
+  "description": "3D экшен-игра по мотивам аниме LBX: сборка и кастомизация мини-роботов, плавные сражения в реальном времени на диорамных аренах, тактический ИИ и сюжетная кампания.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
